@@ -1,2 +1,2 @@
 # python-
-Repositorio de Python
+Repositorio de Python realizando um curso da Udemy
